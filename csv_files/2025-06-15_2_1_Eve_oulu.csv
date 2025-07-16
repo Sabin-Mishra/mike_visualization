@@ -1,0 +1,631 @@
+scrape_date,scrape_time,persons,nights,name,review_score,distance,url,price_date,price
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,15-06-2025,114.4
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,15-06-2025,159.0
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,15-06-2025,169.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,15-06-2025,185.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,15-06-2025,166.0
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,15-06-2025,180.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,15-06-2025,
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,15-06-2025,207.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,15-06-2025,86.7
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,15-06-2025,189.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,15-06-2025,125.7
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,15-06-2025,109.0
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,15-06-2025,94.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,15-06-2025,144.0
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,15-06-2025,99.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,15-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,15-06-2025,
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,15-06-2025,130.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,15-06-2025,
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,15-06-2025,
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,15-06-2025,
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,16-06-2025,149.6
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,16-06-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,16-06-2025,169.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,16-06-2025,268.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,16-06-2025,184.5
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,16-06-2025,179.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,16-06-2025,164.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,16-06-2025,193.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,16-06-2025,98.6
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,16-06-2025,357.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,16-06-2025,132.5
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,16-06-2025,139.0
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,16-06-2025,98.8
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,16-06-2025,
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,16-06-2025,105.0
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,16-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,16-06-2025,
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,16-06-2025,130.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,16-06-2025,
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,16-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,16-06-2025,
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,17-06-2025,118.2
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,17-06-2025,147.6
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,17-06-2025,174.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,17-06-2025,217.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,17-06-2025,177.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,17-06-2025,185.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,17-06-2025,164.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,17-06-2025,191.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,17-06-2025,97.8
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,17-06-2025,357.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,17-06-2025,129.7
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,17-06-2025,139.0
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,17-06-2025,94.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,17-06-2025,
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,17-06-2025,99.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,17-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,17-06-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,17-06-2025,130.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,17-06-2025,
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,17-06-2025,
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,17-06-2025,108.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,18-06-2025,118.1
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,18-06-2025,139.9
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,18-06-2025,173.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,18-06-2025,159.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,18-06-2025,163.8
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,18-06-2025,176.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,18-06-2025,164.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,18-06-2025,145.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,18-06-2025,91.8
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,18-06-2025,357.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,18-06-2025,129.7
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,18-06-2025,139.0
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,18-06-2025,89.3
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,18-06-2025,
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,18-06-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,18-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,18-06-2025,125.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,18-06-2025,130.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,18-06-2025,76.5
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,18-06-2025,
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,18-06-2025,108.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,19-06-2025,119.0
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,19-06-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,19-06-2025,127.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,19-06-2025,159.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,19-06-2025,148.5
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,19-06-2025,142.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,19-06-2025,
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,19-06-2025,131.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,19-06-2025,86.7
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,19-06-2025,171.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,19-06-2025,129.7
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,19-06-2025,139.0
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,19-06-2025,89.3
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,19-06-2025,136.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,19-06-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,19-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,19-06-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,19-06-2025,130.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,19-06-2025,76.5
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,19-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,19-06-2025,180.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,20-06-2025,112.2
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,20-06-2025,
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,20-06-2025,127.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,20-06-2025,150.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,20-06-2025,129.6
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,20-06-2025,149.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,20-06-2025,
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,20-06-2025,142.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,20-06-2025,86.7
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,20-06-2025,201.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,20-06-2025,110.6
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,20-06-2025,139.0
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,20-06-2025,
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,20-06-2025,136.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,20-06-2025,110.4
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,20-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,20-06-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,20-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,20-06-2025,85.5
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,20-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,20-06-2025,
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,21-06-2025,133.3
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,21-06-2025,
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,21-06-2025,127.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,21-06-2025,150.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,21-06-2025,129.6
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,21-06-2025,140.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,21-06-2025,
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,21-06-2025,139.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,21-06-2025,102.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,21-06-2025,201.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,21-06-2025,109.4
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,21-06-2025,139.0
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,21-06-2025,
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,21-06-2025,136.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,21-06-2025,110.4
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,21-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,21-06-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,21-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,21-06-2025,85.5
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,21-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,21-06-2025,180.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,22-06-2025,116.9
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,22-06-2025,
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,22-06-2025,123.2
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,22-06-2025,154.1
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,22-06-2025,149.4
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,22-06-2025,149.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,22-06-2025,
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,22-06-2025,150.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,22-06-2025,95.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,22-06-2025,189.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,22-06-2025,112.1
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,22-06-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,22-06-2025,89.3
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,22-06-2025,136.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,22-06-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,22-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,22-06-2025,125.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,22-06-2025,130.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,22-06-2025,
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,22-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,22-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,23-06-2025,117.0
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,23-06-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,23-06-2025,124.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,23-06-2025,154.1
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,23-06-2025,144.9
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,23-06-2025,153.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,23-06-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,23-06-2025,159.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,23-06-2025,107.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,23-06-2025,189.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,23-06-2025,119.7
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,23-06-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,23-06-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,23-06-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,23-06-2025,142.6
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,23-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,23-06-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,23-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,23-06-2025,76.5
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,23-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,23-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,24-06-2025,116.9
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,24-06-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,24-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,24-06-2025,158.9
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,24-06-2025,144.9
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,24-06-2025,150.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,24-06-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,24-06-2025,158.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,24-06-2025,106.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,24-06-2025,189.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,24-06-2025,109.6
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,24-06-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,24-06-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,24-06-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,24-06-2025,110.4
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,24-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,24-06-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,24-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,24-06-2025,76.5
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,24-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,24-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,25-06-2025,113.3
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,25-06-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,25-06-2025,127.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,25-06-2025,158.9
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,25-06-2025,141.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,25-06-2025,153.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,25-06-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,25-06-2025,135.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,25-06-2025,101.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,25-06-2025,189.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,25-06-2025,118.5
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,25-06-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,25-06-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,25-06-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,25-06-2025,110.4
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,25-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,25-06-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,25-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,25-06-2025,76.5
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,25-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,25-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,26-06-2025,116.9
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,26-06-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,26-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,26-06-2025,158.9
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,26-06-2025,137.7
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,26-06-2025,137.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,26-06-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,26-06-2025,130.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,26-06-2025,100.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,26-06-2025,189.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,26-06-2025,115.5
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,26-06-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,26-06-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,26-06-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,26-06-2025,110.4
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,26-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,26-06-2025,125.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,26-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,26-06-2025,76.5
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,26-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,26-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,27-06-2025,128.2
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,27-06-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,27-06-2025,155.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,27-06-2025,172.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,27-06-2025,158.4
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,27-06-2025,167.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,27-06-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,27-06-2025,170.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,27-06-2025,114.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,27-06-2025,201.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,27-06-2025,120.2
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,27-06-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,27-06-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,27-06-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,27-06-2025,110.4
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,27-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,27-06-2025,125.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,27-06-2025,155.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,27-06-2025,85.5
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,27-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,27-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,28-06-2025,132.2
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,28-06-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,28-06-2025,151.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,28-06-2025,159.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,28-06-2025,151.2
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,28-06-2025,164.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,28-06-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,28-06-2025,142.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,28-06-2025,115.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,28-06-2025,201.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,28-06-2025,112.0
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,28-06-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,28-06-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,28-06-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,28-06-2025,110.4
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,28-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,28-06-2025,125.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,28-06-2025,155.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,28-06-2025,
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,28-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,28-06-2025,
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,29-06-2025,117.0
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,29-06-2025,138.6
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,29-06-2025,122.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,29-06-2025,154.1
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,29-06-2025,140.4
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,29-06-2025,143.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,29-06-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,29-06-2025,150.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,29-06-2025,99.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,29-06-2025,173.7
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,29-06-2025,115.5
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,29-06-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,29-06-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,29-06-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,29-06-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,29-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,29-06-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,29-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,29-06-2025,76.5
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,29-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,29-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,30-06-2025,116.9
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,30-06-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,30-06-2025,119.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,30-06-2025,154.1
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,30-06-2025,144.9
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,30-06-2025,143.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,30-06-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,30-06-2025,159.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,30-06-2025,107.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,30-06-2025,173.7
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,30-06-2025,120.2
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,30-06-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,30-06-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,30-06-2025,165.3
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,30-06-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,30-06-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,30-06-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,30-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,30-06-2025,
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,30-06-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,30-06-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,01-07-2025,117.0
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,01-07-2025,139.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,01-07-2025,123.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,01-07-2025,158.9
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,01-07-2025,144.9
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,01-07-2025,146.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,01-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,01-07-2025,158.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,01-07-2025,107.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,01-07-2025,173.7
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,01-07-2025,117.6
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,01-07-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,01-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,01-07-2025,165.3
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,01-07-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,01-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,01-07-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,01-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,01-07-2025,81.0
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,01-07-2025,85.0
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,01-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,02-07-2025,116.3
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,02-07-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,02-07-2025,123.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,02-07-2025,158.9
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,02-07-2025,142.2
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,02-07-2025,146.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,02-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,02-07-2025,134.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,02-07-2025,104.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,02-07-2025,173.7
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,02-07-2025,119.2
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,02-07-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,02-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,02-07-2025,165.3
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,02-07-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,02-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,02-07-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,02-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,02-07-2025,
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,02-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,02-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,03-07-2025,117.0
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,03-07-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,03-07-2025,123.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,03-07-2025,158.9
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,03-07-2025,144.9
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,03-07-2025,146.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,03-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,03-07-2025,136.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,03-07-2025,107.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,03-07-2025,173.7
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,03-07-2025,120.2
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,03-07-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,03-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,03-07-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,03-07-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,03-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,03-07-2025,125.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,03-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,03-07-2025,
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,03-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,03-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,04-07-2025,220.0
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,04-07-2025,170.2
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,04-07-2025,
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,04-07-2025,241.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,04-07-2025,185.4
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,04-07-2025,169.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,04-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,04-07-2025,260.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,04-07-2025,161.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,04-07-2025,324.9
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,04-07-2025,
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,04-07-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,04-07-2025,122.5
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,04-07-2025,165.3
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,04-07-2025,192.0
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,04-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,04-07-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,04-07-2025,155.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,04-07-2025,
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,04-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,04-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,05-07-2025,220.0
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,05-07-2025,
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,05-07-2025,
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,05-07-2025,241.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,05-07-2025,
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,05-07-2025,
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,05-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,05-07-2025,237.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,05-07-2025,190.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,05-07-2025,324.9
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,05-07-2025,143.9
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,05-07-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,05-07-2025,122.5
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,05-07-2025,165.3
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,05-07-2025,177.0
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,05-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,05-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,05-07-2025,155.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,05-07-2025,85.5
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,05-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,05-07-2025,
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,06-07-2025,116.9
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,06-07-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,06-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,06-07-2025,155.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,06-07-2025,162.9
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,06-07-2025,138.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,06-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,06-07-2025,150.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,06-07-2025,106.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,06-07-2025,156.9
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,06-07-2025,134.4
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,06-07-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,06-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,06-07-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,06-07-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,06-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,06-07-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,06-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,06-07-2025,81.0
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,06-07-2025,
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,06-07-2025,
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,07-07-2025,117.0
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,07-07-2025,138.6
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,07-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,07-07-2025,175.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,07-07-2025,176.4
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,07-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,07-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,07-07-2025,160.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,07-07-2025,141.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,07-07-2025,173.7
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,07-07-2025,123.1
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,07-07-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,07-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,07-07-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,07-07-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,07-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,07-07-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,07-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,07-07-2025,81.0
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,07-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,07-07-2025,
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,08-07-2025,170.5
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,08-07-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,08-07-2025,159.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,08-07-2025,171.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,08-07-2025,185.4
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,08-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,08-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,08-07-2025,161.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,08-07-2025,131.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,08-07-2025,189.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,08-07-2025,147.4
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,08-07-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,08-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,08-07-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,08-07-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,08-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,08-07-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,08-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,08-07-2025,81.0
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,08-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,08-07-2025,
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,09-07-2025,153.4
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,09-07-2025,154.6
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,09-07-2025,160.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,09-07-2025,175.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,09-07-2025,185.4
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,09-07-2025,155.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,09-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,09-07-2025,161.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,09-07-2025,131.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,09-07-2025,173.7
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,09-07-2025,115.5
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,09-07-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,09-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,09-07-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,09-07-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,09-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,09-07-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,09-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,09-07-2025,81.0
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,09-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,09-07-2025,
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,10-07-2025,159.5
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,10-07-2025,154.6
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,10-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,10-07-2025,159.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,10-07-2025,189.0
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,10-07-2025,169.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,10-07-2025,168.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,10-07-2025,198.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,10-07-2025,123.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,10-07-2025,303.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,10-07-2025,115.5
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,10-07-2025,141.6
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,10-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,10-07-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,10-07-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,10-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,10-07-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,10-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,10-07-2025,81.0
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,10-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,10-07-2025,
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,11-07-2025,192.5
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,11-07-2025,183.1
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,11-07-2025,163.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,11-07-2025,240.8
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,11-07-2025,207.0
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,11-07-2025,178.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,11-07-2025,168.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,11-07-2025,249.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,11-07-2025,123.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,11-07-2025,
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,11-07-2025,132.6
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,11-07-2025,141.6
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,11-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,11-07-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,11-07-2025,110.4
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,11-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,11-07-2025,125.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,11-07-2025,155.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,11-07-2025,
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,11-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,11-07-2025,270.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,12-07-2025,192.5
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,12-07-2025,175.0
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,12-07-2025,155.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,12-07-2025,241.0
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,12-07-2025,207.0
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,12-07-2025,178.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,12-07-2025,145.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,12-07-2025,336.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,12-07-2025,137.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,12-07-2025,
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,12-07-2025,131.5
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,12-07-2025,141.6
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,12-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,12-07-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,12-07-2025,122.8
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,12-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,12-07-2025,125.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,12-07-2025,155.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,12-07-2025,
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,12-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,12-07-2025,450.0
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,13-07-2025,118.0
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,13-07-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,13-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,13-07-2025,154.1
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,13-07-2025,153.0
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,13-07-2025,138.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,13-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,13-07-2025,150.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,13-07-2025,95.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,13-07-2025,303.3
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,13-07-2025,130.3
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,13-07-2025,141.6
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,13-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,13-07-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,13-07-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,13-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,13-07-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,13-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,13-07-2025,81.0
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,13-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,13-07-2025,
+15-06-2025,01:02 PM,2,1,Best Western Hotel Apollo,8.2,400.0,https://www.booking.com/hotel/fi/best-western-apollo.html,14-07-2025,129.6
+15-06-2025,01:02 PM,2,1,De Gamlas Hem Hotel & Restaurant,8.6,1000.0,https://www.booking.com/hotel/fi/de-gamlas-hem-amp-restaurant.html,14-07-2025,146.3
+15-06-2025,01:02 PM,2,1,Scandic Oulu Station,8.0,450.0,https://www.booking.com/hotel/fi/scandic-oulu-station.html,14-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Lapland Hotels Oulu,9.0,450.0,https://www.booking.com/hotel/fi/lapland-oulu.html,14-07-2025,154.1
+15-06-2025,01:02 PM,2,1,"Radisson Blu Hotel, Oulu",9.0,450.0,https://www.booking.com/hotel/fi/radisson-sas-oulu.html,14-07-2025,153.0
+15-06-2025,01:02 PM,2,1,Scandic Oulu City,8.3,250.0,https://www.booking.com/hotel/fi/scandic-oulu.html,14-07-2025,140.0
+15-06-2025,01:02 PM,2,1,Hotel Lasaretti,8.7,1200.0,https://www.booking.com/hotel/fi/lasaretti.html,14-07-2025,156.0
+15-06-2025,01:02 PM,2,1,Original Sokos Hotel Arina Oulu,8.5,50.0,https://www.booking.com/hotel/fi/sokos-arina.html,14-07-2025,159.0
+15-06-2025,01:02 PM,2,1,GreenStar Hotel Oulu,7.9,150.0,https://www.booking.com/hotel/fi/forenom-aparthotel-oulu-uusikatu.html,14-07-2025,111.0
+15-06-2025,01:02 PM,2,1,Nallikari Seaside Aalto Apartments,9.3,3400.0,https://www.booking.com/hotel/fi/nallikari-holiday-village-seaside-apartments.html,14-07-2025,173.7
+15-06-2025,01:02 PM,2,1,Finlandia Hotel Airport Oulu,8.2,7600.0,https://www.booking.com/hotel/fi/airport-oulu.html,14-07-2025,110.9
+15-06-2025,01:02 PM,2,1,Black Hotel,8.3,9500.0,https://www.booking.com/hotel/fi/black-suites-kempele.html,14-07-2025,132.1
+15-06-2025,01:02 PM,2,1,Hotel Pohjankievari,7.4,9300.0,https://www.booking.com/hotel/fi/hotelli-pohjankievari.html,14-07-2025,113.0
+15-06-2025,01:02 PM,2,1,Apartment Kievarinhovi,8.5,9200.0,https://www.booking.com/hotel/fi/huoneistohotelli-kievarinhovi.html,14-07-2025,155.8
+15-06-2025,01:02 PM,2,1,Forenom Aparthotel Kempele,8.6,12700.0,https://www.booking.com/hotel/fi/forenom-aparthotel-kempele.html,14-07-2025,94.2
+15-06-2025,01:02 PM,2,1,Samantta Hotel & Restaurant,8.0,19000.0,https://www.booking.com/hotel/fi/best-western-samantta.html,14-07-2025,128.0
+15-06-2025,01:02 PM,2,1,Hotelli Liminganlahti,8.1,22200.0,https://www.booking.com/hotel/fi/hotelli-ravintola-liminganlahti.html,14-07-2025,105.0
+15-06-2025,01:02 PM,2,1,Park Hotel Liminka,8.6,22700.0,https://www.booking.com/hotel/fi/park-liminka.html,14-07-2025,135.0
+15-06-2025,01:02 PM,2,1,Willa Rauha E,9.1,23400.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki12.html,14-07-2025,81.0
+15-06-2025,01:02 PM,2,1,Willa Rauha 1B,9.3,23200.0,https://www.booking.com/hotel/fi/villa-rauha-lumijoki123.html,14-07-2025,76.5
+15-06-2025,01:02 PM,2,1,Huoneistohotelli Nallisuites,9.4,3100.0,https://www.booking.com/hotel/fi/huoneistohotelli-nallisuites.html,14-07-2025,
